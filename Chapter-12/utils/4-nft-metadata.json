@@ -1,0 +1,25 @@
+{
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Turquoise Fur"
+      },
+      {
+        "trait_type": "age",
+        "value": "2"
+      },
+      {
+        "trait_type": "breed",
+        "value": "Breed #872434"
+      },
+      {
+        "trait_type": "location",
+        "value": "Pennsylvania, USA"
+      }
+    ],
+    "name": "Green Eyes - My Pet NFT",
+    "description": "Green Eyes - My Pet NFT: An exclusive digital collectible that captures the endearing essence of beloved pets",
+    "image": "PINATA_IPFS_IMAGE_URI"
+    
+  }
+  

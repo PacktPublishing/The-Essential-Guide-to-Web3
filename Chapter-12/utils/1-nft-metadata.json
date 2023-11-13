@@ -1,0 +1,25 @@
+{
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Green Eyes"
+      },
+      {
+        "trait_type": "age",
+        "value": "1"
+      },
+      {
+        "trait_type": "breed",
+        "value": "Breed #009111"
+      },
+      {
+        "trait_type": "location",
+        "value": "New York, USA"
+      }
+    ],
+    "name": "Green Eyes - My Pet NFT",
+    "description": "Green Eyes - My Pet NFT: An exclusive digital collectible that captures the endearing essence of beloved pets",
+    "image": "PINATA_IPFS_IMAGE_URI"
+    
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Holi"
+      },
+      {
+        "trait_type": "age",
+        "value": "3"
+      },
+      {
+        "trait_type": "breed",
+        "value": "Breed #007313"
+      },
+      {
+        "trait_type": "location",
+        "value": "Texas, USA"
+      }
+    ],
+    "name": "Holi - My Pet NFT",
+    "description": "Holi - My Pet NFT: An exclusive digital collectible that captures the endearing essence of beloved pets",
+    "image": "PINATA_IPFS_IMAGE_URI"
+    
+  }
+  

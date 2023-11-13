@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Green Eyes",
+    "picture": "/1.jpg",
+    "age": 1,
+    "breed": "Breed # 009111",
+    "location": "New York, USA"
+  },
+  {
+    "id": 1,
+    "name": "Purple Look",
+    "picture": "/2.jpg",
+    "age": 1,
+    "breed": "Breed #007832",
+    "location": "California, USA"
+  },
+  {
+    "id": 2,
+    "name": "Holi",
+    "picture": "/3.jpg",
+    "age": 3,
+    "breed": "Breed #007313",
+    "location": "Texas, USA"
+  },
+  {
+    "id": 3,
+    "name": "Turquoise Fur",
+    "picture": "/4.jpg",
+    "age": 2,
+    "breed": "Breed #872434",
+    "location": "Pennsylvania, USA"
+  },
+  {
+    "id": 4,
+    "name": "Yellow Fellow",
+    "picture": "/5.jpg",
+    "age": 2,
+    "breed": "Breed # 009135",
+    "location": "Florida, USA"
+  },
+  {
+    "id": 5,
+    "name": "Good Dog",
+    "picture": "/6.jpg",
+    "age": 3,
+    "breed": "Breed # 002346",
+    "location": "Washington, USA"
+  },
+  {
+    "id": 6,
+    "name": "Pinked",
+    "picture": "/7.jpg",
+    "age": 6,
+    "breed": "Breed #007237",
+    "location": "Illinois, USA"
+  },
+  {
+    "id": 7,
+    "name": "Mellow",
+    "picture": "/8.jpg",
+    "age": 3,
+    "breed": "Breed # 007648",
+    "location": "Arizona, USA"
+  },
+  {
+    "id": 8,
+    "name": "Spiked Purple",
+    "picture": "/9.jpg",
+    "age": 3,
+    "breed": "Breed #012349",
+    "location": "Utah, USA"
+  },
+  {
+    "id": 9,
+    "name": "White Buddy",
+    "picture": "/10.jpg",
+    "age": 2,
+    "breed": "Breed # 004560",
+    "location": "Hawaii, USA"
+  },
+  {
+    "id": 10,
+    "name": "Cooler",
+    "picture": "/11.jpg",
+    "age": 2,
+    "breed": "Breed # 003111",
+    "location": "Indiana, USA"
+  },
+  {
+    "id": 11,
+    "name": "Big Boy",
+    "picture": "/12.jpg",
+    "age": 4,
+    "breed": "Breed # 112342",
+    "location": "Montana, USA"
+  }
+]

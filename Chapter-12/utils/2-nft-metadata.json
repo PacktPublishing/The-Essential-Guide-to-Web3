@@ -1,0 +1,25 @@
+{
+    "attributes": [
+      {
+        "trait_type": "name",
+        "value": "Purple Look"
+      },
+      {
+        "trait_type": "age",
+        "value": "1"
+      },
+      {
+        "trait_type": "breed",
+        "value": "Breed #007832"
+      },
+      {
+        "trait_type": "location",
+        "value": "California, USA"
+      }
+    ],
+    "name": "Purple Look - My Pet NFT",
+    "description": "Purple Look - My Pet NFT: An exclusive digital collectible that captures the endearing essence of beloved pets",
+    "image": "PINATA_IPFS_IMAGE_URI"
+    
+  }
+  
