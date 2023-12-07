@@ -1,65 +1,64 @@
-# The Essential Guide to Web3
+# The Essential Guide to Web3 
 
-Welcome to "The Essential Guide to Web3" project repository. This comprehensive guide is designed to help you understand and navigate the exciting world of Web3 technology, blockchain, and decentralized applications (DApps). Whether you're a beginner or an experienced developer, this guide aims to equip you with the knowledge and skills needed to thrive in the Web3 ecosystem.
+<a href="https://www.packtpub.com/product/the-essential-guide-to-web3/9781801813471?utm_source=github&utm_medium=repository&utm_campaign=9781801813471"><img src="https://content.packt.com/B18847/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-## Table of Contents
+This is the code repository for [The Essential Guide to Web3 ](https://www.packtpub.com/product/the-essential-guide-to-web3/9781801813471?utm_source=github&utm_medium=repository&utm_campaign=9781801813471), published by Packt.
 
-- [The Essential Guide to Web3](#the-essential-guide-to-web3)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Getting Started](#getting-started)
-  - [Chapter-04 Smart Contract Samples](#chapter-04-smart-contract-samples)
-  - [Chapter-08 Ethereum Sepolia Pet Store hands-on exercise](#chapter-08-ethereum-sepolia-pet-store-hands-on-exercise)
-  - [Chapter-10 Minting your first Token hands-on exercise](#chapter-10-minting-your-first-token-hands-on-exercise)
-  - [Chapter-12 Minting your first PET NFTs hands-on exercise](#chapter-12-minting-your-first-pet-nfts-hands-on-exercise)
+**Develop, deploy, and manage distributed applications on the Ethereum network**
+
+## What is this book about?
+Web3, the new blockchain-based web, is often hailed as the future of the internet. Driven by technologies such as cryptocurrencies, NFTs, DAOs, decentralized finance, and more, Web3’s aim is to give individuals more control over the web communities they belong to. Whether you’re a beginner or an experienced developer, this book will help you master the intricacies of Web3 and its revolutionary technologies.
+
+This book covers the following exciting features:
+
+* Get an in-depth understanding of Ethereum's ecosystem, its status, and key EIPs and ERCs
+* Gain practical skills using non-custodial wallets such as MetaMask for blockchain transactions
+* Write, debug, and deploy smart contracts on test networks
+* Discover Web3 dev tools and set up a local environment
+* Get to grips with tokenomics and create ERC20, ERC721, and ERC1155 tokens
+* Explore decentralized storage with IPFS and integrate it into your Web3 projects
+* Expand your NFT strategy with APIs and SDKs to lead in the NFT space
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801813477) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter02.
+
+The code will look like the following:
+```
+pragma solidity ^0.8.0; contract MyContract { uint256 public value = 
+10; bool public isGreater = value > 5; }
+```
+
+**Following is what you need for this book:**
+This book is for blockchain developers and blockchain enthusiasts who want to build powerful and secure decentralized applications. Familiarity with the basics of blockchain, along with knowledge of how they function, is necessary to grasp the topics discussed in this book.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-17).
+### Software and Hardware List
+| Chapter | Software required | OS required |
+| -------- | ------------------------------------ | ----------------------------------- |
+| 4-12 | Browser (Chrome, Safari, Firefox) | Windows, macOS, or Linux |
+| 4-12 | Node.js 16 or greater |  |
+| 4-12 | Hardhat 2.19.0 or later |  |
+| 4-12 | The latest Visual Studio Code version |  |
+| 4-12 | The latest MetaMask version |  |
+| 4-12 | Infura – an account and API key |  |
+| 4-12 | Pinata – an account and API key |  |
+
+
+### Related products
+* Blockchain with Hyperledger Fabric [[Packt]](https://www.packtpub.com/product/blockchain-with-hyperledger-fabric-second-edition/9781839218750?utm_source=github&utm_medium=repository&utm_campaign=9781839218750) [[Amazon]](https://www.amazon.com/dp/1839218754)
+
+* Mastering Blockchain [[Packt]](https://www.packtpub.com/product/mastering-blockchain-fourth-edition/9781803241067?utm_source=github&utm_medium=repository&utm_campaign=9781803241067) [[Amazon]](https://www.amazon.com/dp/1803241063)
+
+## Get to Know the Author
+**Vijay Krishnan**, an experienced expert in blockchain and Web3, holds the position of head of SysOps for Linea, a Layer 2 blockchain at Consensys. With a rich background in blockchain, he&rsquo;s guided Fortune 100 companies from ideation to product build. With over 50 projects and 300+ use cases to his credit, Vijay has left an indelible mark on the industry.
+Prior to Consensys, he pioneered the AWS Partner Blockchain ecosystem and led IBM North America&rsquo;s Blockchain Practice. With two decades on Wall Street, he possesses deep financial and tech insights.
+Vijay, a leader and subject matter expert, empowers clients in DeFi, NFTs, gaming, and the metaverse. Beyond work, he&rsquo;s a mentor, speaker, author, and organic farmer. His knowledge and innovation continue to shape the blockchain and Web3 landscape.
 
 
 
-## Introduction
 
-Web3 is revolutionizing the way we interact with the internet, enabling decentralized applications, cryptocurrencies, NFTs, and more. This guide provides a step-by-step journey through key concepts, tools, and practical exercises to help you master Web3 development.
-
-## Getting Started
-
-To get started with this guide, follow these steps:
-
-1. Clone this repository to your local machine:
-   ```bash
-    git clone https://github.com/PacktPublishing/The-Essential-Guide-to-Web3.git
-
-## Chapter-04 Smart Contract Samples
-
-To get started with Chapter-04, browse files under:
-
-1. Clone this repository to your local machine:
-   ```bash
-    /Chapter-04
-
-## Chapter-08 Ethereum Sepolia Pet Store hands-on exercise
-
-To get started with Ethereum Sepolia Pet Store, follow these steps:
-
-1. Clone this repository to your local machine:
-   ```bash
-    git clone https://github.com/PacktPublishing/The-Essential-Guide-to-Web3.git
-    cd Chapter-08
-  
-  Follow the step-by-step instructions given in the Chatper-08
-
-## Chapter-10 Minting your first Token hands-on exercise
-
-1. Clone this repository to your local machine:
-   ```bash
-    git clone https://github.com/PacktPublishing/The-Essential-Guide-to-Web3.git
-    cd Chapter-10
-  
-  Follow the step-by-step instructions given in the Chatper-10
-
-## Chapter-12 Minting your first PET NFTs hands-on exercise
-
-1. Clone this repository to your local machine:
-   ```bash
-    git clone https://github.com/PacktPublishing/The-Essential-Guide-to-Web3.git
-    cd Chapter-12
-  
-  Follow the step-by-step instructions given in the Chatper-12
